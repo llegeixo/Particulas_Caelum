@@ -30531,7 +30531,13 @@ VisualEffect:
     m_Vector3f:
       m_Array: []
     m_Vector4f:
-      m_Array: []
+      m_Array:
+      - m_Value: {x: 7.9524856, y: 3.5822747, z: 0.49963263, w: 0}
+        m_Name: Color01
+        m_Overridden: 1
+      - m_Value: {x: 0.9752329, y: 8.269977, z: 7.9262457, w: 0}
+        m_Name: Color02
+        m_Overridden: 1
     m_Uint:
       m_Array: []
     m_Int:
@@ -30556,7 +30562,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.69948, y: 0.69948, z: 0.69948}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
